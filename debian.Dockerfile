@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # Build TypeScript Project
-RUN npm run build
+RUN npm run build --legacy-peer-deps
 
 # Prune devDependencies
 RUN npm prune --production
