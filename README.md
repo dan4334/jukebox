@@ -1,3 +1,22 @@
+# I've forked this.
+Notes below are from the original readme
+
+I've attempted to update all of the NPM dependencies but am hitting build issues. Probably not advisable to use anything in this repo right now.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](.github/images/jukebox.png)
 # Maintenance Notice
 ⚠️ Due to rapid changes on the library Jukebox used, and Discord API, this branch of Jukebox is discontinued.
